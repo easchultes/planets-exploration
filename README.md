@@ -12,3 +12,5 @@ Going to Mars?
 - hire Elon
 - earn enough money to pay him
 
+## Licence
+See license file ;-)
