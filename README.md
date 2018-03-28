@@ -1,5 +1,5 @@
 # planets
-Exploring the universe.
+Exploring the Big universe.
 
 Going to Venus?
 ## plans for exploration
